@@ -11,7 +11,8 @@
     git -version
     ```
     5. If it returns the output like `git version 2.35.1.windows.2`. Git, is already installed in your system.
-    6. If the output is like `'git' is not recognized as an internal or external command, operable program or batch file.`, Git is not installed in your system.
+    ![Step-1.5](./assests/23.png)
+    7. If the output is like `'git' is not recognized as an internal or external command, operable program or batch file.`, Git is not installed in your system.
     ![Step-1.6](./assests/3.png)
 
 2. Go to the downloads page of git. [Click here](https://git-scm.com/download/win)
