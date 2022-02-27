@@ -1,4 +1,6 @@
 # Installing-Git
+### Reading Time: 2 Minutes
+### Tags: *git, windows*
 - This is guide for installing Git for windows. Follow these steps to install Git in your Windows.
 
 1. Check if `Git` is already installed in your system.
