@@ -1,18 +1,18 @@
 # Installing-Git
-- This is guide for installing Git for windows
+- This is guide for installing Git for windows. Follow these steps to install Git in your Windows.
 
 1. Check if `Git` is already installed in your system.
     1. Go to `Command Prompt` or `cmd` by typing `Command Prompt` in search menu. Click on `Command Prompt` as shown in the screenshot.
     ![Step-1.1](./assests/1.png)
     3. A windows appears with Blinking Underscore, making ready to type in your command.
     ![Step-1.2](./assests/2.png)
-    5. Type
+    5. Type:
     ```
-    git -version
+    git --version
     ```
     5. If it returns the output like `git version 2.35.1.windows.2`. Git, is already installed in your system.
     ![Step-1.5](./assests/23.png)
-    7. If the output is like `'git' is not recognized as an internal or external command, operable program or batch file.`, Git is not installed in your system.
+    7. If the output is like `'git' is not recognized as an internal or external command, operable program or batch file.`, Git is probably not installed in your system.
     ![Step-1.6](./assests/3.png)
 
 2. Go to the downloads page of git. [Click here](https://git-scm.com/download/win)
